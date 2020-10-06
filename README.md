@@ -58,6 +58,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="OTHER",DISNEY CHANNEL
+PT13TTVNVE0xQVRPME16TGtsR2JsNW1iaGgyWXYwV1lsSkhkejlTTTRrVE82WWpMM0VUTXVNak54NGlNd0l6THZvRGMwUkhh
+
+
 
 
 
